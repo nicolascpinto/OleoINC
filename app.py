@@ -4,6 +4,7 @@ import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output
 import math
 import time
+import geopandas as gpd
 
 #import fronted
 from fronted.main import layout
