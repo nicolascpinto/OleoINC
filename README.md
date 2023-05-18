@@ -1,7 +1,5 @@
-# OleoINC
+#Oleo INC
 
-# Profe, la verdad he intentado avanzar con la programación del Backend pero se me ha hecho un poco complejo, la verdad sé que no soy tan bueno para la programación pero me he estado intentando orientar de Chat GPT para el código pero púes lo estoy corriendo bien en Colab pero al momento de dejarlo en .py al no tener municipios.zip y la cartografía no sé como cargarla... Necesito una gran ayuda para la próxima entrega, igual estoy inténtandolo... :CaritaMuyTriste:
+#Entrega quinta.
 
-# El código que he creado es el que dice MAPAS.ipynb, ahí esta mi avance del Backend y funcionamiento.
-
-# Se supone que donde va a quedar el mapa es en la parte derecha, donde me va dejar ver el Mapa de Colombia, los oleductos trazados y las características como: Longitud, Tipo de Material, Tag, Producto a transportar.
+#Profe la verdad he intentado hacer el backend pero no se me es fácil, he visto vídeos y demas pero no se que hacer que funcione mediante clicks. Ahí dejo el código en el Backend, en este momento queda poder hacerlo que funcione y casi que ya el final sería estético como cambio de colores y demás. Pero debo aceptar que se me ha dificultado mucho pero apesar de esto he estado dándole mediante vídeos y Chat GPT pero aún así no doy con el correcto funcionamiento... Gracias profe, el sábado quizás si lo moleste después de clase para ver que puedo hacer para que el backend corra bien y poder cerrar este ciclo... Gracias :+1:
